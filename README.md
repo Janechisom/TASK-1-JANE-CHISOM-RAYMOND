@@ -122,5 +122,4 @@ The experience highlighted that effective analysis begins with clean, accurate, 
 
 Business Intelligence Analyst | Financial analyst (In Training)
 
-Focused on Excel, Power Query, SQL, Power BI, Financial Analysis, and Business Intelligence.
-
+Focused on Advanced Excel, SQL, Tableau.
